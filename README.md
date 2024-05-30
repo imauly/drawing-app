@@ -1,6 +1,6 @@
 # drawing_app
 
-A new Flutter project.
+Aplikasi Project Pengembangan Mobile.
 
 ## Getting Started
 
